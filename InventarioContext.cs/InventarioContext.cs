@@ -9,4 +9,5 @@ namespace InventarioProductos
 	{
 		public DbSet<Productos> Productos { get; set; }
 	}
+
 }
